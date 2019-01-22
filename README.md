@@ -18,5 +18,5 @@ The target audience for this tutorial is developers that want to understand how 
 
 ## Labs
 
-* [Getting Started with Tracing](docs/01-prerequisites.md)
-* [Getting Started with Metrics](docs/02-client-tools.md)
+* [Getting Started with Tracing](src/01_GettingStarted_Trace/ZipkinSample.cs)
+* [Getting Started with Metrics](src/02_GettingStarted_Metrics/StackdriverSample.cs)
