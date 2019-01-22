@@ -33,8 +33,6 @@ namespace GettingStarted_Metrics
 
         public static void Run(string projectId)
         {
-            //string metricsDescriptorName = "custom.googleapis.com/opencensus/sample_execution_count";
-
             // 5. Start Stackdriver Exporter for metrics collection
             var exporter = new StackdriverExporter(
                 projectId,

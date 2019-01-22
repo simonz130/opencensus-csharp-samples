@@ -6,7 +6,7 @@ namespace GettingStarted_Metrics
     {
         static void Main(string[] args)
         {
-            string projectId = "aspnetcoreissue";
+            string projectId = "<<ENTER PROJECT ID HERE>>";
 
             Console.WriteLine("Each . represents unit of work that's done and instrumented");
             Console.WriteLine($"Navigate to https://console.cloud.google.com/monitoring?project={projectId}!");

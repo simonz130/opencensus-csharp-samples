@@ -11,9 +11,9 @@ The target audience for this tutorial is developers that want to understand how 
 
 ## Important Links
 
-* [OpenCensus](https://opencensus.io) 1.12.0
-* [OpenCensus C# Repo](https://github.com/census-instrumentation/opencensus-csharp)
-* [Specs](https://github.com/census-instrumentation/opencensus-specs)
+* [OpenCensus Website](https://opencensus.io)
+* [OpenCensus .NET Repo](https://github.com/census-instrumentation/opencensus-csharp)
+* [OpenCensus Specs](https://github.com/census-instrumentation/opencensus-specs)
 * [Context Propagation Standard](https://github.com/w3c/trace-context)
 
 ## Labs
