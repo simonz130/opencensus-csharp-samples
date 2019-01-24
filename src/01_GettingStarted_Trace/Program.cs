@@ -9,7 +9,6 @@ namespace GettingStarted_Trace
         {
             ZipkinSample.Run("http://localhost:9411/api/v2/spans");
             Console.WriteLine("Inspect Traces at: http://localhost:9411");
-            Console.Read();
         }
     }
 }

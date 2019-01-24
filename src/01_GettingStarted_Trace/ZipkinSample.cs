@@ -62,7 +62,7 @@
             {
                 // Simulate some work.
                 ISpan span = tracer.CurrentSpan;
-
+                
                 try
                 {
                     Console.WriteLine("Doing busy work");
